@@ -1,7 +1,5 @@
 # Kaggle_Quora
 
-If you seethe summary you can see the all of our process
-
 kaggle project comparing the sentence
 They give the data total 404290 sentence to comparing same sentence or not
 
@@ -14,3 +12,6 @@ They give the data total 404290 sentence to comparing same sentence or not
 
 ## Limitation
 - Need to use GPU(I used CPU so it takes very long time to dirve the model)
+
+
+If you see the summary you can see the all of our process Thank you!
