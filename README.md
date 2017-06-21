@@ -14,4 +14,4 @@ They give the data total 404290 sentence to comparing same sentence or not
 - Need to use GPU(I used CPU so it takes very long time to dirve the model)
 
 
-If you see the summary you can see the all of our process Thank you!
+If you see the Summary.ipynb you can see the all of our process Thank you!
