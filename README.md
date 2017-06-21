@@ -1,5 +1,7 @@
 # Kaggle_Quora
 
+If you seethe summary you can see the all of our process
+
 kaggle project comparing the sentence
 They give the data total 404290 sentence to comparing same sentence or not
 
